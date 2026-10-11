@@ -1,0 +1,7 @@
+{
+  "name": "AccessGuard — Secure Role & Permission Misconfiguration Detector",
+  "description": "Enterprise-grade role and permission misconfiguration detector by Team Byteforge (CBC090). Real-time attack intelligence, effective access mapping, explainable findings, and voice security copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
